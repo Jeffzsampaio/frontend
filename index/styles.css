@@ -1,13 +1,12 @@
-#blue {
-   background: blue;
-}
+.red {
+ background-color: blueviolet;
 
-.green {
-  background: green;
+ width: 100px;
+ height: 100px;
 }
-
-div {
-width: 200px;
-height: 200px;
-background: red;
+.gray {
+  background-color: darkgoldenrod;
+  
+  width: 200px;
+  height: 300px;
 }
